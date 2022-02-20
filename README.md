@@ -7,7 +7,6 @@ Items that are **bolded** are Muslim-specific.
 ## 🗓️ Before your baby is born
 
 Read:
-* **The Quran**
 * **[Children Around the Prophet](https://www.amazon.com/Children-Around-Prophet-Muhammad-Companions/dp/1986793443)**: Very insightful look at how the Prophet (S) treated  children, written from a psychological / children's development perspective
 
 Watch:
@@ -33,3 +32,10 @@ Buy:
 ## 🧸 6-12 months
 
 ## 🧒 1-2 years
+
+
+## ♾️ Timeless
+
+Read:
+* **The Quran**
+
