@@ -1,6 +1,6 @@
 # Resources for Muslim Parents Based on Baby Age
 
-Suggestions for videos, books, and buys based on your baby's age. Add your suggestions by [editing this file and a pull request](https://github.com/abidlabs/resources-for-muslim-parents/edit/main/README.md).
+Suggestions for videos, books, and buys based on your baby's age. Add your suggestions by [editing this file](https://github.com/abidlabs/resources-for-muslim-parents/edit/main/README.md).
 
 Items that are **bolded** are Muslim-specific.
 
